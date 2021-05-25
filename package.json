@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lopes393/fundamentos-nodejs.git",
+  "author": "Murilo Lopes <mloopes11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
